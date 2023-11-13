@@ -19,7 +19,7 @@
     color: white;
 }
 .footLogo{
-    width: 143;
+    width: 143px;
 }
 .roomsBG{
     background-image: url("../assets/bg2.jpg");
@@ -45,9 +45,26 @@
     padding:50px;
 }
 .reserevedhamster{
-    background-image: url("../assets/);
+    background-image: url("../assets/hamsterreserve.jpg;")
     background-repeat: no-repeat;
     background-size: cover;
     height: 550px;
     background-position:center;
+}
+.packagetxt{
+    color: darkcyan;
+}
+
+
+
+
+
+
+
+
+.hero {
+    background-image: url("../assets/header.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 550px;
 }
