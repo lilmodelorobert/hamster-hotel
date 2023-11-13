@@ -1,11 +1,53 @@
-.textborder{
-   border-width: 1px ;
-   border-style: solid;
-   border-color:white;
-}
-.backgroundcolor{
+
+.backgroundcolor {
     background-color: #000324;
 }
-.navtxtclr{
- color: white;   
+
+.navtxtstyle {
+    color: white;
+
+}
+
+.navtxtstyle :hover {
+    border: 1px solid white;
+    color: white;
+
+}
+
+
+.textcolorwhite{
+    color: white;
+}
+.footLogo{
+    width: 143;
+}
+.roomsBG{
+    background-image: url("../assets/bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.AmenitiesBG{
+    background-image: url("../assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 550px;
+}
+.AmenitiesTXT{
+    margin-top:200px;
+    padding: 50px;
+    color:white
+}
+.menitiesfitting{
+    width: 100px;
+    height: auto;
+}
+.paddington{
+    padding:50px;
+}
+.reserevedhamster{
+    background-image: url("../assets/);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    background-position:center;
 }
